@@ -1,5 +1,16 @@
 # hackathon-5-learning
 
+## Description
+
+As the internet has ever growing amounts of text it is crucial to be able to categorize and filter it. In this hackathon we will look at the problem of attributing a category to a piece of text. This problem is often called **text classification**.
+
+We will start with a general introduction to text data and how to apply data science concepts and algorithms to such a peculiar kind of data. 
+
+Then, you will presented with specific tools and workflows to easily perform text classification with satisfying results. 
+
+Lastly, we will dig deeper into some advanced techniques.
+
+
 ## Special installation instructions
 
 Though you don't need the nltk dependencies for the first learning unit, please be aware
