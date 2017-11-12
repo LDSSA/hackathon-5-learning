@@ -10,6 +10,10 @@ Then, you will presented with specific tools and workflows to easily perform tex
 
 Lastly, we will dig deeper into some advanced techniques.
 
+You can find a more detailed description here:
+
+https://docs.google.com/document/d/1-ljpn0qGMqPj1dHxeEA4xa7K8Gf5wywCvZvGFjeeftg/edit?usp=sharing
+
 
 ## Special installation instructions
 
