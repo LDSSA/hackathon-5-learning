@@ -15,7 +15,7 @@ COPY requirements.txt /project/
 
 RUN pip3 install --no-cache-dir --upgrade pip six
 RUN pip3 install -r /project/requirements.txt
-RUN python -m nltk.downloader all
+RUN python -m nltk.downloader popular
 
 # Service definitions
 EXPOSE 8888
